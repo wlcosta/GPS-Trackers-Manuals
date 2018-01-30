@@ -12,3 +12,5 @@ tracker.
 You'll be able to find in here a lot of great information. If you don't,
 you can always look in other great places, like *GPS Orange*, which has a
 great variety of posts.
+
+Unfortunately, some documents are in Brazilian Portuguese, since it was obtained through local sellers.
